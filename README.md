@@ -53,3 +53,11 @@ As a user
 So I can know where my appointment location is easily
 I want to get a human-readable string of my appointment location
 ```
+
+### Steps I followed
+
+```
+ run rspec followed the error
+ fixed the typo which was on title given as ti1le in appointment.rb
+ another typo which was in diary.rb include instead of includes
+ followed the error for geocoder fixed the lookup method to return the Lookup.get(name) 
